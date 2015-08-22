@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Amber Lee, I work in security, used to own a gym, and have a love/hate relationship with the Internet of Things. You can see my reviews of fitness devices and Apps at [BreakingMuscle.com](http://breakingmuscle.com/coaches/amber-lee)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My professional history can be found on [LinkedIn](http://www.linkedin.com/in/amberleelee)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can reach me at [info@secure-lee.com](mailto:info@secure-lee.com)
+
+I'm using Jekyll to generate this page, and host it on GitHub because it looked nifty and because I can! You can find more information about Jekyll at [www.jekyllrb.com](http://jekyllrb.com/)
+
