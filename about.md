@@ -8,7 +8,7 @@ My name is Amber Lee, I work in security, used to own a gym, and have a love/hat
 
 <li>My professional history can be found on <a href="http://www.linkedin.com/in/amberleelee" target="new">LinkedIn</a>
 
-<li>You can reach me at [info@secure-lee.com](mailto:info@secure-lee.com)
+<li>You can reach me at <a href="mailto:info@secure-lee.com">info@secure-lee.com</a>
 
 <li>My resume can be found at <a href="https://github.com/Geekpixie/resume" target="new">GitHub</a>
 
